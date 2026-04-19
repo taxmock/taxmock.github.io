@@ -1,0 +1,21 @@
+{
+  "name": "个人所得税",
+  "short_name": "个人所得税",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#1890ff",
+  "background_color": "#ffffff",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/icon.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
